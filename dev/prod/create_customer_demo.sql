@@ -8,4 +8,5 @@ INSERT INTO CUSTOMER_DEMO (ID, NAME, CREATED_AT)
 VALUES 
     (1, 'Alice', CURRENT_TIMESTAMP()),
     (2, 'Bob', CURRENT_TIMESTAMP()),
-    (3, 'Charlie', CURRENT_TIMESTAMP());
+    (3, 'Charlie', CURRENT_TIMESTAMP()
+    (4, 'Boolean', CURRENT_TIMESTAMP());
